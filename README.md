@@ -12,7 +12,7 @@ You can generate it here --> https://github.com/settings/tokens
 For security reasons I suggest you to generate a token with a short expiration date.
 
 # How can I use it?
-You neet to download the repository and run the executable.
+You need to download the repository and run the executable.
 
 # Will it be updated?
 Yes, it will be updated with more features!
